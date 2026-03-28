@@ -4,7 +4,7 @@
 
 I'm a 2nd Year Management Engineering Co-op Student @ University of Waterloo focused on software development, AI and optimization! I'm a student who is passionate about using technology to solve real-world problems and make a positive impact in my community. 
 
-⭐️ Passions: Love playing badminton, the piano, travelling, knitting and tutoring!
+⭐️ Hobbies: Love playing badminton, the piano, travelling, knitting and tutoring!
 
 👩‍💻 Work Experience: I am currently an E-Learning Software Developer Intern at @ UW and was previously a Software Developer in Test Intern @ CIBC.
 
