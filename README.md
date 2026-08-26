@@ -2,11 +2,11 @@
 
 **About Me:**
 
-I'm a 2nd Year Management Engineering Co-op Student @ University of Waterloo focused on software development, AI and optimization! I'm a student who is passionate about using technology to solve real-world problems and make a positive impact in my community. 
+I'm a 3rd Year Management Engineering Co-op Student @ University of Waterloo focused on software development, AI and optimization! I'm a student who is passionate about using technology to solve real-world problems and make a positive impact in my community. 
 
 ⭐️ Hobbies: Love playing badminton, the piano, travelling, knitting and tutoring!
 
-👩‍💻 Work Experience: I am currently an E-Learning Software Developer Intern at @ UW and was previously a Software Developer in Test Intern @ CIBC.
+👩‍💻 Work Experience: I was previously an E-Learning Software Developer Intern at @ UW and a Software Developer in Test Intern @ CIBC.
 
 🚀 Projects: Some of my projects include an app to detect deepfake audio as well as an iOS carbon footprint tracker! 
 
